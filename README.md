@@ -11,7 +11,7 @@ This is a basic portfolio website built using **HTML** and **CSS**. It includes 
 - **Home Page** – A short introduction about me.  
 - **Contact Page** – Basic contact details.
 
-## 🛠 Built With
+##  Built With
 
 - HTML5  
 - CSS3  
